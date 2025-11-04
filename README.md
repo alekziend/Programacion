@@ -1,2 +1,2 @@
-# Programaci-n
+# Programacion
 Ejercicios de programación DAW
